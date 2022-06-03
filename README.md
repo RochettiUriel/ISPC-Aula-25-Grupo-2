@@ -36,6 +36,8 @@ El PO puede ser un cliente externo a la empresa, un miembro de la misma organiza
 
 - Sprint Planning Meeting:
 
+Sprint Planning Meeting (reunión de planificación del sprint). Se produce al iniciar cada
+Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
 
 
 - Daily Scrum Meeting:
