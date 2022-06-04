@@ -3,7 +3,9 @@
 ## Artefactos:
 
 - Product Backlog: 
-
+El Product Backlog forma parte de la metodología Scrum, es una herramienta esencial para la gestion de proyectos, que consiste en la elaboracion de una lista de trabajo ordenado por prioridades para el equipo de desarrollo. Debe llevarse a cabo por el Product Owner, quien las expresa mediante historias de usuario (caracteristicas del producto), teniendo en cuenta al cliente final, las necesidades ue se cubren con ellas,y las relaciones entre elementos de trabajo. 
+La hoja de ruta y requisitos de un equipo son la base para el backlog del producto. Las iniciativas de la hoja de ruta se dividen en varios epics y cada epic tendra varios requisitos e historias de usuario.
+Con el product backlog conseguiremos: organizar por prioridades cuáles son los elementos más importantes; explicar al equipo de trabajo cuales deben ser las primeras entregas; realizar un seguimiento eficiente del desarrollo de un proyecto.
 
 
 - Sprint Backlog:
