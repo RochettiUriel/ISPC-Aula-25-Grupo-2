@@ -30,7 +30,10 @@ El PO puede ser un cliente externo a la empresa, un miembro de la misma organiza
 
 
 
-- Incremento:
+- Equipo de desarrollo:
+
+El Equipo de desarrollo es un conjunto de profesionales que se encarga de desarrollar el producto funcional cada vez que se realize un sprint. 
+Estos deben tener una buena capacidad tecnica, pero no basta solo con ser bueno tecnicamente ya que es necesaria la capacidad de poder adaptarse a los cambios de cada uno que integra el equipo como tambien saber comunicarse entre si para poder superar los problemas de una manera eficaz. Son los responsables de la lista de tareas para el sprint backlog como tambien desarrollar este mismo.
 
 
 
