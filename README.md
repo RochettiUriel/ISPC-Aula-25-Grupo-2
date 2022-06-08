@@ -31,9 +31,7 @@ Podemos describir al Product Owner (PO) como aquel miembro del SCRUM Team respon
 Una parte importante de la labor del PO es el saber coordinar y establecer las prioridades del equipo de desarrollo. Esto con el objetivo de poder cumplir con lo que se espera del producto y generar el mayor impacto posible con este en el negocio.
 El PO puede ser un cliente externo a la empresa, un miembro de la misma organizacion, o incluso un cliente interno a esta. En todos estos casos, su rol como coordinador del equipo se mantiene.
 
-- Scrum Master:
-
-
+- Scrum Master:Es la figura que lidera los equipos en la gestión ágil de proyectos. Su misión es que los equipos de trabajo alcancen sus objetivos hasta llegar a la fase de sprint final, eliminando cualquier dificultad o problema en el camino. Trabaja con el Product Owner, Stakeholders y otras figuras definiendo los objetivos del proyecto, detectando riesgos durante el sprint y buscando actualizaciones para las tareas a desarrollar; representa al equipo en las reuniones, presenta los temas de diseño técnico y las acciones del equipo realizadas; asesora y refuerza al equipo para que trabajen auto-organizadamente, motivados y concientizados según los objetivos, se encarga de que las reglas y procedimientos se cumplan, es el guía y moderador del equipo.
 
 - Equipo de desarrollo:
 
