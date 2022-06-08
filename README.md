@@ -13,7 +13,9 @@ Con el product backlog conseguiremos: organizar por prioridades cuáles son los 
 
 
 
-- Incremento: se puede ver el incremento como un paso en el camino de conseguir nuestro ansiado Product Goal (u objetivo de producto). Cada incremento nos permite estar un paso más cerca de cubrir las necesidades de nuestros usuarios. Es por esto, que cada incremento se suma a los anteriores que han sido verificados. De esta forma potenciaremos el espíritu empírico que buscamos. Para que un item del "Product Backlog" se convierta en incremento debe cumplir la definición de «hecho» (Definition of Done o, como también se conoce, el DoD) acordada y consensuada por el equipo. el DoD es una lista de criterios acordadas por el equipo Scrum sobre qué debe cumplir un item para darlo por terminado.
+- Incremento: 
+
+Se puede ver el incremento como un paso en el camino de conseguir nuestro ansiado Product Goal (u objetivo de producto). Cada incremento nos permite estar un paso más cerca de cubrir las necesidades de nuestros usuarios. Es por esto, que cada incremento se suma a los anteriores que han sido verificados. De esta forma potenciaremos el espíritu empírico que buscamos. Para que un item del "Product Backlog" se convierta en incremento debe cumplir la definición de «hecho» (Definition of Done o, como también se conoce, el DoD) acordada y consensuada por el equipo. el DoD es una lista de criterios acordadas por el equipo Scrum sobre qué debe cumplir un item para darlo por terminado.
 
 
 
