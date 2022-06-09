@@ -42,7 +42,8 @@ Estos deben tener una buena capacidad tecnica, pero no basta solo con ser bueno 
 
 
 
-## Ceremonias:
+## Ceremonias
+También llamadas *eventos Scrum* son reuniones o dailys que tienen lugar en las iteraciones o *Sprints* contemplados dentro de la metodología Scrum. Las mismas brindan un marco en el que los equipos pueden trabajar de manera mas estructurada para que así se alcancen los resultados esperados pero si no se gestiona de la manera correcta puede abrumar y disminuir el valor que debería proporcionar, sin embargo los equipos Scrum cuentan con varias herramientas útiles que los ayudan a facilitar la realización de ceremonias y también a agilizar todo el desarrollo del proyecto. Las ceremonias son 4, siguen un orden en cascada y tienen un tiempo limitado. La primera *Sprint Planning* es al comienzo del Sprint donde cada miembro se prepara y aseguran que todo salga correctamente, en general es una hora por cada semana de Sprint. La segunda es *Daily Scrum* que debe hacerse una vez por día, preferible por la mañana, no supera los 15 minutos, el equipo se reúne y comunican el progreso de cada uno. La tercera es *Sprint Review* donde se muestra la versión actual del trabajo a las partes interesadas donde se inspecciona o adapta el producto, dura entre 30 minutos y una hora por semana. La cuarta y última *Sprint Retrospective* es al final y no dura mas de 2 horas por cada Sprint de dos semanas, se da una retroalimentación rápida para mejorar en el próximo Sprint.
 
 - Sprint Planning Meeting:
 
