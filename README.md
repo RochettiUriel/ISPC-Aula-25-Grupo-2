@@ -75,4 +75,5 @@ El resultado del Sprint Review Meeting, luego de haber inspeccionado y haber rec
 
 
 - Sprint Retrospective Meeting:
+- 
 Se produce al finalizar el Sprint y su objetivo es documentar si funciono o no. La idea de la reunion es centrar al equipo en lo que salio bien y en lo que se debe mejorar para la proxima iteración. Nunca se centrara en lo que salio mal.
