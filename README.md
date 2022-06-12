@@ -8,7 +8,6 @@ El Product Backlog forma parte de la metodología Scrum, es una herramienta esen
 La hoja de ruta y requisitos de un equipo son la base para el backlog del producto. Las iniciativas de la hoja de ruta se dividen en varios epics y cada epic tendra varios requisitos e historias de usuario.
 Con el product backlog conseguiremos: organizar por prioridades cuáles son los elementos más importantes; explicar al equipo de trabajo cuales deben ser las primeras entregas; realizar un seguimiento eficiente del desarrollo de un proyecto.
 
-
 - Sprint Backlog:
 
 
@@ -17,13 +16,10 @@ Con el product backlog conseguiremos: organizar por prioridades cuáles son los 
 
 Se puede ver el incremento como un paso en el camino de conseguir nuestro ansiado Product Goal (u objetivo de producto). Cada incremento nos permite estar un paso más cerca de cubrir las necesidades de nuestros usuarios. Es por esto, que cada incremento se suma a los anteriores que han sido verificados. De esta forma potenciaremos el espíritu empírico que buscamos. Para que un item del "Product Backlog" se convierta en incremento debe cumplir la definición de «hecho» (Definition of Done o, como también se conoce, el DoD) acordada y consensuada por el equipo. el DoD es una lista de criterios acordadas por el equipo Scrum sobre qué debe cumplir un item para darlo por terminado.
 
-
-
-
-
 ## Roles:
 
-
+Podemos entender a los roles como los distintos papeles que los miembros del equipo de trabajo deben desempeñar para la correcta utilización de la metodología SCRUM. Estos son indispensables para su implementación ya que de otra forma no se podría distribuir adecuadamente la responsabilidad, y como resultado causaría un proceso de desarrollo caotico e ineficiente.
+Los tres roles requeridos en los equipos de SCRUM son: El Product Owner (Dueño del Producto o PO), el Scrum Master, y el Development Team (o Equipo de Desarrollo). A continuación desarrollaremos cada uno...
 
 - Product Owner: 
 
@@ -40,8 +36,6 @@ Es la figura que lidera los equipos en la gestión ágil de proyectos. Su misió
 El Equipo de desarrollo es un conjunto de profesionales que se encarga de desarrollar el producto funcional cada vez que se realize un sprint. 
 Estos deben tener una buena capacidad tecnica, pero no basta solo con ser bueno tecnicamente ya que es necesaria la capacidad de poder adaptarse a los cambios de cada uno que integra el equipo como tambien saber comunicarse entre si para poder superar los problemas de una manera eficaz. Son los responsables de la lista de tareas para el sprint backlog como tambien desarrollar este mismo.
 
-
-
 ## Ceremonias
 También llamadas *eventos Scrum* son reuniones que tienen lugar en las iteraciones o *Sprints* contemplados dentro de la metodología Scrum. Las mismas brindan un marco en el que los equipos pueden trabajar de manera mas estructurada para que así se alcancen los resultados esperados pero si no se gestiona de la manera correcta puede abrumar y disminuir el valor que debería proporcionar, sin embargo los equipos Scrum cuentan con varias herramientas útiles que los ayudan a facilitar la realización de ceremonias y también a agilizar todo el desarrollo del proyecto. Las ceremonias son 4, siguen un orden en cascada y tienen un tiempo limitado: La primera es *Sprint Planning*, la segunda es *Daily Scrum*, la tercera es *Sprint Review* y la cuarta y última sería *Sprint Retrospective*, a continuación se desarrollan las mismas...
 
@@ -49,7 +43,6 @@ También llamadas *eventos Scrum* son reuniones que tienen lugar en las iteracio
 
 Sprint Planning Meeting (reunión de planificación del sprint). Se produce al iniciar cada
 Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
-
 
 - Daily Scrum Meeting:
 
@@ -72,8 +65,6 @@ Los temas que deben tratarse en un Sprint Review Meeting son:
 -Se revisa y actualiza el Release Plan o plan de entregas del producto y los cambios que hayan podido surgir, como cambios en el presupuesto y las capacidades de el/los equipo/s.
 El resultado del Sprint Review Meeting, luego de haber inspeccionado y haber recibido feedback. es un Product Backlog ajustado, listo para enfocarse en nuevas oportunidades para el siguiente Sprint.
 
-
-
 - Sprint Retrospective Meeting:
-- 
+
 Se produce al finalizar el Sprint y su objetivo es documentar si funciono o no. La idea de la reunion es centrar al equipo en lo que salio bien y en lo que se debe mejorar para la proxima iteración. Nunca se centrara en lo que salio mal.
