@@ -46,6 +46,8 @@ Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
 
 - Daily Scrum Meeting:
 
+Daily Scrum Meeting (Reunión diaria de sincronización del equipo) Momento en el que el quipo de desarrollo analiza todo lo que esta en proceso, lo que esta haciendo cada uno de los integrantes, que va a hacer y con que problemas se ha encontado en el camino . Estas reuniones no pueden durar mas de 15 minutos.
+
 
 
 - Sprint Review Meeting:
