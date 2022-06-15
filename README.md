@@ -10,6 +10,11 @@ Con el product backlog conseguiremos: organizar por prioridades cuáles son los 
 
 - Sprint Backlog:
 
+Se trata de una lista de elementos en los que trabajar durante la etapa de Sprint. Estos elementos normalmente se componen de tareas técnicas más pequeñas que permiten conseguir un incremento de software terminado.
+Todo el trabajo que el Development Team haya seleccionado para hacer durante el siguiente Sprint pasa al Sprint Backlog. Este artefacto es un elemento para visualizar el trabajo a realizar durante cada Sprint y está gestionado por el equipo de desarrollo. Su propósito es mantener la transparencia dentro del desarrollo, actualizándolo durante toda la iteración especialmente a través de los daily Scrums.
+El Sprint Backlog permite visualizar, durante cada Sprint, aquellos elementos que aún no han empezado a desarrollarse, aquellos que sí y quiénes están trabajando en los mismos, así como aquellos que están esperando a desplegarse o están completamente terminados.
+Este artefacto permite entender cuál es la evolución del trabajo durante el Sprint, así como hacer un análisis de riesgos. Dado que cada Sprint tiene una meta específica (p.e. permitir que los usuarios se registren en la app móvil) y hay elementos seleccionados del Product Backlog que tienen más o menos valor, el Sprint Backlog permite analizar hasta donde se ha cumplido el objetivo y que se podría eliminar. De esta forma, maximizamos el retorno de la inversión en desarrollo.
+
 
 
 - Incremento: 
