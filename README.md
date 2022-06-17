@@ -13,11 +13,10 @@ Increment
 
 - Product Backlog: 
 
-El Product Backlog forma parte de la metodología Scrum, es una herramienta esencial para la gestion de proyectos, que consiste en la elaboracion de una lista de trabajo ordenado por prioridades para el equipo de desarrollo. Debe llevarse a cabo por el Product Owner, quien las expresa mediante historias de usuario (caracteristicas del producto), teniendo en cuenta al cliente final, las necesidades que se cubren con ellas,y las relaciones entre elementos de trabajo. 
-La hoja de ruta y requisitos de un equipo son la base para el backlog del producto. Las iniciativas de la hoja de ruta se dividen en varios epics y cada epic tendra varios requisitos e historias de usuario.
-Con el product backlog conseguiremos: organizar por prioridades cuáles son los elementos más importantes; explicar al equipo de trabajo cuales deben ser las primeras entregas; realizar un seguimiento eficiente del desarrollo de un proyecto.
+
 
 - Sprint Backlog:
+
  Se trata de una lista de elementos en los que trabajar durante la etapa de Sprint. Estos elementos normalmente se componen de tareas técnicas más pequeñas que permiten conseguir un incremento de software terminado.
 Todo el trabajo que el Development Team haya seleccionado para hacer durante el siguiente Sprint pasa al Sprint Backlog. Este artefacto es un elemento para visualizar el trabajo a realizar durante cada Sprint y está gestionado por el equipo de desarrollo. Su propósito es mantener la transparencia dentro del desarrollo, actualizándolo durante toda la iteración especialmente a través de los daily Scrums.
 El Sprint Backlog permite visualizar, durante cada Sprint, aquellos elementos que aún no han empezado a desarrollarse, aquellos que sí y quiénes están trabajando en los mismos, así como aquellos que están esperando a desplegarse o están completamente terminados.
