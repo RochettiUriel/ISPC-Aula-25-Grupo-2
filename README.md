@@ -2,6 +2,15 @@
 
 ## Artefactos:
 
+Dentro del marco de Scrum se les conoce a todos los elementos dentro de la gestión de transparencia como Artefactos de scrum, están pensados y diseñados para poder garantizar la transparencia dentro del equipo de scrum y que se pueda evitar el riego de tener una mala comunicación, un mal manejo de información en la entrega de el proyecto scrum.
+Los Artefactos de Scrum tienen una gran importancia para poder coordinar un buen entendimiento de la información de tal manera que si no son trasparentes podrás tomar decisiones erróneas durante la aplicación de scrum.
+Estos son los Artefactos de scrum:
+Product Backlog
+Sprint Backlog
+Increment
+
+
+
 - Product Backlog: 
 
 El Product Backlog forma parte de la metodología Scrum, es una herramienta esencial para la gestion de proyectos, que consiste en la elaboracion de una lista de trabajo ordenado por prioridades para el equipo de desarrollo. Debe llevarse a cabo por el Product Owner, quien las expresa mediante historias de usuario (caracteristicas del producto), teniendo en cuenta al cliente final, las necesidades que se cubren con ellas,y las relaciones entre elementos de trabajo. 
@@ -9,6 +18,15 @@ La hoja de ruta y requisitos de un equipo son la base para el backlog del produc
 Con el product backlog conseguiremos: organizar por prioridades cuáles son los elementos más importantes; explicar al equipo de trabajo cuales deben ser las primeras entregas; realizar un seguimiento eficiente del desarrollo de un proyecto.
 
 - Sprint Backlog:
+ Se trata de una lista de elementos en los que trabajar durante la etapa de Sprint. Estos elementos normalmente se componen de tareas técnicas más pequeñas que permiten conseguir un incremento de software terminado.
+Todo el trabajo que el Development Team haya seleccionado para hacer durante el siguiente Sprint pasa al Sprint Backlog. Este artefacto es un elemento para visualizar el trabajo a realizar durante cada Sprint y está gestionado por el equipo de desarrollo. Su propósito es mantener la transparencia dentro del desarrollo, actualizándolo durante toda la iteración especialmente a través de los daily Scrums.
+El Sprint Backlog permite visualizar, durante cada Sprint, aquellos elementos que aún no han empezado a desarrollarse, aquellos que sí y quiénes están trabajando en los mismos, así como aquellos que están esperando a desplegarse o están completamente terminados.
+Este artefacto permite entender cuál es la evolución del trabajo durante el Sprint, así como hacer un análisis de riesgos. Dado que cada Sprint tiene una meta específica (p.e. permitir que los usuarios se registren en la app móvil) y hay elementos seleccionados del Product Backlog que tienen más o menos valor, el Sprint Backlog permite analizar hasta donde se ha cumplido el objetivo y que se podría eliminar. De esta forma, maximizamos el retorno de la inversión en desarrollo.
+
+Se trata de una lista de elementos en los que trabajar durante la etapa de Sprint. Estos elementos normalmente se componen de tareas técnicas más pequeñas que permiten conseguir un incremento de software terminado.
+Todo el trabajo que el Development Team haya seleccionado para hacer durante el siguiente Sprint pasa al Sprint Backlog. Este artefacto es un elemento para visualizar el trabajo a realizar durante cada Sprint y está gestionado por el equipo de desarrollo. Su propósito es mantener la transparencia dentro del desarrollo, actualizándolo durante toda la iteración especialmente a través de los daily Scrums.
+El Sprint Backlog permite visualizar, durante cada Sprint, aquellos elementos que aún no han empezado a desarrollarse, aquellos que sí y quiénes están trabajando en los mismos, así como aquellos que están esperando a desplegarse o están completamente terminados.
+Este artefacto permite entender cuál es la evolución del trabajo durante el Sprint, así como hacer un análisis de riesgos. Dado que cada Sprint tiene una meta específica (p.e. permitir que los usuarios se registren en la app móvil) y hay elementos seleccionados del Product Backlog que tienen más o menos valor, el Sprint Backlog permite analizar hasta donde se ha cumplido el objetivo y que se podría eliminar. De esta forma, maximizamos el retorno de la inversión en desarrollo.
 
 
 
@@ -45,6 +63,8 @@ Sprint Planning Meeting (reunión de planificación del sprint). Se produce al i
 Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
 
 - Daily Scrum Meeting:
+
+Daily Scrum Meeting (Reunión diaria de sincronización del equipo) Momento en el que el quipo de desarrollo analiza todo lo que esta en proceso, lo que esta haciendo cada uno de los integrantes, que va a hacer y con que problemas se ha encontado en el camino . Estas reuniones no pueden durar mas de 15 minutos.
 
 
 
