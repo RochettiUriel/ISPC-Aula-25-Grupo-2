@@ -4,10 +4,7 @@
 
 Dentro del marco de Scrum se les conoce a todos los elementos dentro de la gestión de transparencia como Artefactos de scrum, están pensados y diseñados para poder garantizar la transparencia dentro del equipo de scrum y que se pueda evitar el riego de tener una mala comunicación, un mal manejo de información en la entrega de el proyecto scrum.
 Los Artefactos de Scrum tienen una gran importancia para poder coordinar un buen entendimiento de la información de tal manera que si no son trasparentes podrás tomar decisiones erróneas durante la aplicación de scrum.
-Estos son los Artefactos de scrum:
-Product Backlog
-Sprint Backlog
-Increment
+Estos son los Artefactos de scrum: Product Backlog, Sprint Backlog y Increment.
 
 
 - Product Backlog: (o Pila del producto) es una lista ordenada. Cada una de las entradas de esta lista son posibles trabajos a seleccionarse para su realización durante una reunión de planificación de Sprint. El refinamiento de los ítems del Product Backlog es el acto de convertir esos ítems en elementos más detallados y precisos, en este proceso también se les asigna una prioridad y un tamaño.
@@ -17,9 +14,8 @@ La pila de producto puede incluir ítems para explorar las necesidades del clien
 - Sprint Backlog: Este artefacto delimita el trabajo necesario para alcanzar determinado incremento, y sirve para marcar el avance. También sirve como herramienta de comunicación del equipo. Esto es visible para todos y representa una imagen en tiempo real del trabajo que llevan los desarrolladores para alcanzar el Objetivo del Sprint (Sprint Meta). Este último se crea durante la reunión de planificación de Sprint y a lo largo de todo el ciclo, los desarrolladores lo tienen presente.
 
 
-- Incremento: 
+- Incremento: Se puede ver el incremento como un paso en el camino de conseguir nuestro ansiado Product Goal (u objetivo de producto). Cada incremento nos permite estar un paso más cerca de cubrir las necesidades de nuestros usuarios. Es por esto, que cada incremento se suma a los anteriores que han sido verificados. De esta forma potenciaremos el espíritu empírico que buscamos. Para que un item del "Product Backlog" se convierta en incremento debe cumplir la definición de «hecho» (Definition of Done o, como también se conoce, el DoD) acordada y consensuada por el equipo. el DoD es una lista de criterios acordadas por el equipo Scrum sobre qué debe cumplir un item para darlo por terminado.
 
-Se puede ver el incremento como un paso en el camino de conseguir nuestro ansiado Product Goal (u objetivo de producto). Cada incremento nos permite estar un paso más cerca de cubrir las necesidades de nuestros usuarios. Es por esto, que cada incremento se suma a los anteriores que han sido verificados. De esta forma potenciaremos el espíritu empírico que buscamos. Para que un item del "Product Backlog" se convierta en incremento debe cumplir la definición de «hecho» (Definition of Done o, como también se conoce, el DoD) acordada y consensuada por el equipo. el DoD es una lista de criterios acordadas por el equipo Scrum sobre qué debe cumplir un item para darlo por terminado.
 
 ## Roles:
 
