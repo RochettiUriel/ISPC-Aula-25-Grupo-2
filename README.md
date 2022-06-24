@@ -4,7 +4,7 @@
 
 Dentro del marco de Scrum se les conoce a todos los elementos dentro de la gestión de transparencia como Artefactos de scrum, están pensados y diseñados para poder garantizar la transparencia dentro del equipo de scrum y que se pueda evitar el riego de tener una mala comunicación, un mal manejo de información en la entrega de el proyecto scrum.
 Los Artefactos de Scrum tienen una gran importancia para poder coordinar un buen entendimiento de la información de tal manera que si no son trasparentes podrás tomar decisiones erróneas durante la aplicación de scrum.
-Estos son los Artefactos de scrum: Product Backlog, Sprint Backlog y Increment.
+Estos son los Artefactos de scrum: Product Backlog, Sprint Backlog e Increment.
 
 
 - Product Backlog: (o Pila del producto) es una lista ordenada. Cada una de las entradas de esta lista son posibles trabajos a seleccionarse para su realización durante una reunión de planificación de Sprint. El refinamiento de los ítems del Product Backlog es el acto de convertir esos ítems en elementos más detallados y precisos, en este proceso también se les asigna una prioridad y un tamaño.
