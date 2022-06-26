@@ -40,18 +40,18 @@ Estos deben tener una buena capacidad tecnica, pero no basta solo con ser bueno 
 ## Ceremonias
 También llamadas *eventos Scrum* son reuniones que tienen lugar en las iteraciones o *Sprints* contemplados dentro de la metodología Scrum. Las mismas brindan un marco en el que los equipos pueden trabajar de manera mas estructurada para que así se alcancen los resultados esperados pero si no se gestiona de la manera correcta puede abrumar y disminuir el valor que debería proporcionar, sin embargo los equipos Scrum cuentan con varias herramientas útiles que los ayudan a facilitar la realización de ceremonias y también a agilizar todo el desarrollo del proyecto. Las ceremonias son 4, siguen un orden en cascada y tienen un tiempo limitado: La primera es *Sprint Planning*, la segunda es *Daily Scrum*, la tercera es *Sprint Review* y la cuarta y última sería *Sprint Retrospective*, a continuación se desarrollan las mismas...
 
-- Sprint Planning Meeting:
+* Sprint Planning Meeting:
 
 Sprint Planning Meeting (reunión de planificación del sprint). Se produce al iniciar cada
 Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
 
-- Daily Scrum Meeting:
+* Daily Scrum Meeting:
 
 Daily Scrum Meeting (Reunión diaria de sincronización del equipo) Momento en el que el quipo de desarrollo analiza todo lo que esta en proceso, lo que esta haciendo cada uno de los integrantes, que va a hacer y con que problemas se ha encontado en el camino . Estas reuniones no pueden durar mas de 15 minutos.
 
 
 
-- Sprint Review Meeting:
+* Sprint Review Meeting:
 
 El Sprint Review Meeting (o Revisión del Sprint) es uno de los cinco eventos de Scrum y se realiza al final del Sprint. Durante esta ceremonia se revisa el Incremento, es decir, lo que se realizó durante el Sprint, y se analizan los cambios que tuvo el Product Backlog. El principal objetivo del Sprint Review es obtener feedback de los Stakeholders para inspeccionar y evaluar el producto a fin de ajustar el Product Backlog para el siguiente sprint. Por lo general un Sprint Review Meeting suele tener una duracion de hasta cuatro horas para un Sprint de un mes. Si tenemos Sprints más cortos, la duración de esta ceremonia será adecuadamente más corta. A lo largo de la Revisión del Sprint o Sprint Review Meeting participa todo el Equipo Scrum, es decir, el Product Owner, el Scrum Master, los Developers y los Stakeholders (los interesados clave, invitados por el Product Owner).
 El Scrum Master garantiza que el evento se realice y que los participantes comprendan su finalidad. También ejercerá su rol como facilitador, ayudando a mantener el evento dentro del bloque de tiempo.
